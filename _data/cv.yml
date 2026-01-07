@@ -2,96 +2,152 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Armin Toroghi
+    - name: Email
+      value: armin.toroghi@mail.utoronto.ca
     - name: Languages
-      value: English, German
+      value: Persian (Native), English (Fluent)
+    - name: Research Interests
+      value: Large Language Models, Natural Language Processing, Knowledge Graphs, Information Retrieval, Recommender Systems, Neurosymbolic Reasoning
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Candidate in Information Engineering
+      institution: University of Toronto, Canada
+      year: 2021 – 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - GPA: 4.0 / 4.0
+        - Thesis: Complex Multi-step Inference over Knowledge Graphs Leveraging LLMs, Probabilistic, and Logical Reasoning
+        - Supervisor: Prof. Scott Sanner
+    - title: M.Sc. in Mechanical Engineering
+      institution: University of Tehran, Iran
+      year: 2017 – 2020
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 17.35 / 20 (3.88 / 4)
+        - Research: Deep Neural Networks for Fault Detection of Air Compressors and Centrifugal Pumps
+        - Supervisor: Prof. Ali Sadighi
+    - title: B.Sc. in Mechanical Engineering (Magna Cum Laude)
+      institution: University of Tehran, Iran
+      year: 2013 – 2017
+      description:
+        - GPA: 17.89 / 20 (3.84 / 4)
+        - Research: Smart Device for Measurement of Cervical Range of Motion
+        - Supervisor: Prof. Mohammad Mahjoob
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: University of Toronto
+      year: Dec 2025 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Research on large language models, knowledge graphs, and complex reasoning
+        - Verifiable, multi-step, and neuro-symbolic reasoning methods
+        
+    - title: Machine Learning Research Intern
+      institution: Borealis AI
+      year: Jan 2025 – Apr 2025
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Memory-efficient Retrieval-Augmented Generation
+        - Multi-step reasoning frameworks for Large Language Models
+    - title: Applied Machine Learning Intern
+      institution: Vector Institute of Artificial Intelligence
+      year: May 2025 – Aug 2025
       description:
+        - Commonsense reasoning with LLMs
+        - Interpretability and explainability in NLP
+    - title: Researcher
+      institution: Data-Driven Decision Making Lab (D3M), University of Toronto
+      year: Sep 2021 – Present
+      description:
+        - Large Language Models and Knowledge Graph reasoning
+        - Information Retrieval and Conversational Recommender Systems
+    - title: Researcher
+      institution: Smart Electromechanical Energy Conversion Systems Lab, University of Tehran
+      year: Sep 2017 – Sep 2020
+      description:
+        - Machine learning-based condition monitoring and fault detection of turbomachinery
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Publications
+  type: list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - "LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases, ICLR 2025"
+    - "CoLoTa: A Dataset for Entity-based Commonsense Reasoning over Long-Tail Knowledge, SIGIR 2025"
+    - "Verifiable, Debuggable, and Repairable Commonsense Logical Reasoning via LLM-based Theory Resolution, EMNLP 2024 (Oral)"
+    - "Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering, EMNLP 2024"
+    - "Bayesian Inference with Complex Knowledge Graph Evidence, AAAI 2024"
+    - "CR-LT-KGQA: A Knowledge Graph Question Answering Dataset Requiring Commonsense Reasoning and Long-Tail Knowledge, 2024"
+    - "Bayesian Optimization with LLM-Based Acquisition Functions for Natural Language Preference Elicitation, RecSys 2024"
+    - "Bayesian Knowledge-driven Critiquing with Indirect Evidence, SIGIR 2023"
+    - "LogicRec: Recommendation with Users’ Logical Requirements, SIGIR 2023"
+    - "Self-Supervised Contrastive BERT Fine-tuning for Late Fusion in Neural Preference Matching, ECIR 2023"
+    - "Fault Detection of Reciprocating Air Compressors Based on Electrical Signature Analysis Using LSTM, ICSPIS 2020 (Outstanding Paper Award)"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Department of Mechanical and Industrial Engineering Fellowship, University of Toronto
+    - year: 2020
       items:
-        - Max Planck Medal
+        - Outstanding Paper Award, ICSPIS
+    - year: 2017
+      items:
+        - Ranked 10th among 132 students; exemption from national M.Sc. entrance exam
+    - year: 2013 – 2017
+      items:
+        - Mechanical Engineering Dean’s List Scholar (5 consecutive semesters)
+    - year: 2013
+      items:
+        - Ranked 430th among 300,000+ participants in Iranian Nationwide University Entrance Exam (Top 0.14%)
 
-- title: Academic Interests
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Course Instructor
+      institution: University of Toronto
+      year: Jan 2023 – Apr 2023
+      description:
+        - Introduction to Artificial Intelligence (MIE369)
+    - title: Teaching Assistant
+      institution: University of Toronto
+      year: Jan 2022 – Present
+      description:
+        - Decision Support Systems (MIE451, MIE1513)
+        - Introduction to Artificial Intelligence (MIE369)
+        - Applied Deep Learning (ECE1508)
+    - title: Course Instructor and Mentor
+      institution: Vector Institute of Artificial Intelligence
+      year: Aug 2022 – Sep 2023
+      description:
+        - Applied AI projects on recommender systems for industry partners
+    - title: Teaching Assistant
+      institution: University of Tehran
+      year: Sep 2016 – Sep 2020
+      description:
+        - System Identification, Mechatronics, Control, FEM, Fluid Mechanics, Heat Transfer
+    - title: Instructor and Mentor
+      institution: Maktabkhooneh.org
+      year: Mar 2018 – Present
+      description:
+        - Best-selling SolidWorks training course
+
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python (PyTorch, TensorFlow, NumPy, SciPy, Scikit-learn)
+        - MATLAB, Java, C++
+    - title: Engineering Software
       items:
-        - Description 1.
-        - Description 2.
+        - SolidWorks, Abaqus, AutoCAD, COMSOL, ANSYS, LabVIEW, HSpice, PSpice
 
-- title: Other Interests
+- title: Professional Service
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Reviewer: ACM TORS
+    - Reviewer: ICML, IJCAI, EMNLP, ACL
+    - Reviewer: WWW, SIGIR
