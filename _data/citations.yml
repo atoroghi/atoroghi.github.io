@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-01-26'
 papers:
   qAj_2MoAAAAJ:4DMP91E08xMC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Self-supervised contrastive BERT fine-tuning for fusion-based reviewed-item retrieval
     year: '2023'
   qAj_2MoAAAAJ:ULOm3_A8WrAC:
-    citations: 8
+    citations: 9
     title: 'A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice. arXiv 2024'
     year: Unknown Year
   qAj_2MoAAAAJ:UeHWp8X0CEIC:
@@ -38,7 +38,7 @@ papers:
     title: "\u0627\u06CC\u062F\u0647\u200C\u0647\u0627 \u0648 \u06A9\u0627\u0631\u0628\u0631\u062F\u0647\u0627\u06CC \u0646\u0648\u06CC\u0646 \u0627\u0646\u0631\u0698\u06CC\u200C\u0647\u0627\u06CC \u062A\u062C\u062F\u06CC\u062F\u067E\u0630\u06CC\u0631\u200E"
     year: '2018'
   qAj_2MoAAAAJ:WF5omc3nYNoC:
-    citations: 20
+    citations: 21
     title: 'Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering'
     year: '2024'
   qAj_2MoAAAAJ:YOwf2qJgpHMC:
@@ -50,7 +50,7 @@ papers:
     title: LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases
     year: '2025'
   qAj_2MoAAAAJ:_FxGoFyzp5QC:
-    citations: 28
+    citations: 29
     title: Bayesian optimization with llm-based acquisition functions for natural language preference elicitation
     year: '2024'
   qAj_2MoAAAAJ:kNdYIx-mwKoC:
@@ -66,7 +66,7 @@ papers:
     title: 'A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice. arXiv'
     year: '2024'
   qAj_2MoAAAAJ:roLk4NBRz8UC:
-    citations: 66
+    citations: 71
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice'
     year: '2024'
   qAj_2MoAAAAJ:ufrVoPGSRksC:
