@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-06'
 papers:
   qAj_2MoAAAAJ:4DMP91E08xMC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: Fault detection of reciprocating air compressors based on electrical signature analysis using long short-term memory networks
     year: '2020'
   qAj_2MoAAAAJ:UebtZRa9Y70C:
-    citations: 13
+    citations: 14
     title: Verifiable, Debuggable, and Repairable Commonsense Logical Reasoning via LLM-based Theory Resolution
     year: '2024'
   qAj_2MoAAAAJ:W7OEmFMy1HYC:
@@ -50,7 +50,7 @@ papers:
     title: LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases
     year: '2025'
   qAj_2MoAAAAJ:_FxGoFyzp5QC:
-    citations: 29
+    citations: 31
     title: Bayesian optimization with llm-based acquisition functions for natural language preference elicitation
     year: '2024'
   qAj_2MoAAAAJ:kNdYIx-mwKoC:
@@ -62,11 +62,11 @@ papers:
     title: Bayesian Knowledge-driven Critiquing with Indirect Evidence
     year: '2023'
   qAj_2MoAAAAJ:qxL8FJ1GzNcC:
-    citations: 8
+    citations: 9
     title: 'A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice. arXiv'
     year: '2024'
   qAj_2MoAAAAJ:roLk4NBRz8UC:
-    citations: 71
+    citations: 72
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice'
     year: '2024'
   qAj_2MoAAAAJ:ufrVoPGSRksC:
