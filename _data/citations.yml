@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-08'
 papers:
   qAj_2MoAAAAJ:4DMP91E08xMC:
-    citations: 1
+    citations: 2
     title: Multimodal Item Scoring for Natural Language Recommendation via Gaussian Process Regression with LLM Relevance Judgments
     year: '2025'
   qAj_2MoAAAAJ:5nxA0vEk-isC:
@@ -26,7 +26,7 @@ papers:
     title: Self-supervised contrastive BERT fine-tuning for fusion-based reviewed-item retrieval
     year: '2023'
   qAj_2MoAAAAJ:ULOm3_A8WrAC:
-    citations: 9
+    citations: 10
     title: 'A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice. arXiv 2024'
     year: Unknown Year
   qAj_2MoAAAAJ:UeHWp8X0CEIC:
@@ -34,7 +34,7 @@ papers:
     title: Fault detection of reciprocating air compressors based on electrical signature analysis using long short-term memory networks
     year: '2020'
   qAj_2MoAAAAJ:UebtZRa9Y70C:
-    citations: 19
+    citations: 20
     title: Verifiable, Debuggable, and Repairable Commonsense Logical Reasoning via LLM-based Theory Resolution
     year: '2024'
   qAj_2MoAAAAJ:W7OEmFMy1HYC:
@@ -42,7 +42,7 @@ papers:
     title: "\u0627\u06CC\u062F\u0647\u200C\u0647\u0627 \u0648 \u06A9\u0627\u0631\u0628\u0631\u062F\u0647\u0627\u06CC \u0646\u0648\u06CC\u0646 \u0627\u0646\u0631\u0698\u06CC\u200C\u0647\u0627\u06CC \u062A\u062C\u062F\u06CC\u062F\u067E\u0630\u06CC\u0631\u200E"
     year: '2018'
   qAj_2MoAAAAJ:WF5omc3nYNoC:
-    citations: 26
+    citations: 28
     title: 'Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering'
     year: '2024'
   qAj_2MoAAAAJ:Wp0gIr-vW9MC:
@@ -58,11 +58,11 @@ papers:
     title: LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases
     year: '2025'
   qAj_2MoAAAAJ:_FxGoFyzp5QC:
-    citations: 37
+    citations: 39
     title: Bayesian optimization with llm-based acquisition functions for natural language preference elicitation
     year: '2024'
   qAj_2MoAAAAJ:kNdYIx-mwKoC:
-    citations: 6
+    citations: 7
     title: Bayesian inference with complex knowledge graph evidence
     year: '2024'
   qAj_2MoAAAAJ:mVmsd5A6BfQC:
@@ -74,15 +74,15 @@ papers:
     title: Bayesian Knowledge-driven Critiquing with Indirect Evidence
     year: '2023'
   qAj_2MoAAAAJ:qxL8FJ1GzNcC:
-    citations: 8
+    citations: 9
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice. arXiv'
     year: '2024'
   qAj_2MoAAAAJ:roLk4NBRz8UC:
-    citations: 90
+    citations: 103
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice'
     year: '2026'
   qAj_2MoAAAAJ:ufrVoPGSRksC:
-    citations: 12
+    citations: 13
     title: 'CR-LT-KGQA: A Knowledge Graph Question Answering Dataset Requiring Commonsense Reasoning and Long-Tail Knowledge'
     year: '2024'
   qAj_2MoAAAAJ:zYLM7Y9cAGgC:
