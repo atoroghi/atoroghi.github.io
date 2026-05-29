@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-29'
 papers:
   qAj_2MoAAAAJ:4DMP91E08xMC:
     citations: 3
@@ -62,7 +62,7 @@ papers:
     title: LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases
     year: '2025'
   qAj_2MoAAAAJ:_FxGoFyzp5QC:
-    citations: 39
+    citations: 40
     title: Bayesian optimization with llm-based acquisition functions for natural language preference elicitation
     year: '2024'
   qAj_2MoAAAAJ:dhFuZR0502QC:
@@ -86,7 +86,7 @@ papers:
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice. arXiv'
     year: '2024'
   qAj_2MoAAAAJ:roLk4NBRz8UC:
-    citations: 110
+    citations: 115
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice'
     year: '2026'
   qAj_2MoAAAAJ:ufrVoPGSRksC:
