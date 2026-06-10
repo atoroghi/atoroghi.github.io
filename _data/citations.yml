@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-10'
 papers:
   qAj_2MoAAAAJ:4DMP91E08xMC:
-    citations: 3
+    citations: 4
     title: Multimodal Item Scoring for Natural Language Recommendation via Gaussian Process Regression with LLM Relevance Judgments
     year: '2025'
   qAj_2MoAAAAJ:5nxA0vEk-isC:
-    citations: 2
+    citations: 3
     title: Self-supervised Contrastive BERT Fine-tuning for Fusion-Based Reviewed-Item Retrieval
     year: '2023'
   qAj_2MoAAAAJ:7PzlFSSx8tAC:
-    citations: 0
+    citations: 1
     title: Goal-Oriented Reasoning for RAG-based Memory in Conversational Agentic LLM Systems
     year: '2026'
   qAj_2MoAAAAJ:9ZlFYXVOiuMC:
-    citations: 0
+    citations: 1
     title: 'Semantic XPath: Structured Agentic Memory Access for Conversational AI'
     year: '2026'
   qAj_2MoAAAAJ:9yKSN-GCB0IC:
@@ -29,6 +29,10 @@ papers:
     citations: 12
     title: Self-supervised contrastive BERT fine-tuning for fusion-based reviewed-item retrieval
     year: '2023'
+  qAj_2MoAAAAJ:L8Ckcad2t8MC:
+    citations: 0
+    title: 'Temporal Order Matters for Agentic Memory: Segment Trees for Long-Horizon Agents'
+    year: '2026'
   qAj_2MoAAAAJ:ULOm3_A8WrAC:
     citations: 10
     title: 'A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice. arXiv 2024'
@@ -57,6 +61,10 @@ papers:
     citations: 2
     title: 'CoLoTa: A Dataset for Entity-based Commonsense Reasoning over Long-Tail Knowledge'
     year: '2025'
+  qAj_2MoAAAAJ:ZeXyd9-uunAC:
+    citations: 5
+    title: 'A comprehensive review of recommender systems: transitioning from theory to practice. 2024'
+    year: Unknown Year
   qAj_2MoAAAAJ:Zph67rFs4hoC:
     citations: 5
     title: LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases
@@ -86,11 +94,11 @@ papers:
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice. arXiv'
     year: '2024'
   qAj_2MoAAAAJ:roLk4NBRz8UC:
-    citations: 115
+    citations: 118
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice'
     year: '2026'
   qAj_2MoAAAAJ:ufrVoPGSRksC:
-    citations: 14
+    citations: 16
     title: 'CR-LT-KGQA: A Knowledge Graph Question Answering Dataset Requiring Commonsense Reasoning and Long-Tail Knowledge'
     year: '2024'
   qAj_2MoAAAAJ:zYLM7Y9cAGgC:
