@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-22'
 papers:
   qAj_2MoAAAAJ:4DMP91E08xMC:
     citations: 6
@@ -54,11 +54,11 @@ papers:
     title: 'Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering'
     year: '2024'
   qAj_2MoAAAAJ:Wp0gIr-vW9MC:
-    citations: 2
+    citations: 3
     title: Natural Language PDDL (NL-PDDL) for Open-world Goal-oriented Commonsense Regression Planning in Embodied AI
     year: '2026'
   qAj_2MoAAAAJ:YOwf2qJgpHMC:
-    citations: 2
+    citations: 3
     title: 'CoLoTa: A Dataset for Entity-based Commonsense Reasoning over Long-Tail Knowledge'
     year: '2025'
   qAj_2MoAAAAJ:ZeXyd9-uunAC:
@@ -70,7 +70,7 @@ papers:
     title: LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases
     year: '2025'
   qAj_2MoAAAAJ:_FxGoFyzp5QC:
-    citations: 41
+    citations: 42
     title: Bayesian optimization with llm-based acquisition functions for natural language preference elicitation
     year: '2024'
   qAj_2MoAAAAJ:dhFuZR0502QC:
@@ -90,11 +90,11 @@ papers:
     title: Bayesian Knowledge-driven Critiquing with Indirect Evidence
     year: '2023'
   qAj_2MoAAAAJ:qxL8FJ1GzNcC:
-    citations: 11
+    citations: 12
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice. arXiv'
     year: '2024'
   qAj_2MoAAAAJ:roLk4NBRz8UC:
-    citations: 136
+    citations: 141
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice'
     year: '2026'
   qAj_2MoAAAAJ:ufrVoPGSRksC:
