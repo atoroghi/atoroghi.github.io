@@ -1,36 +1,40 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-12'
 papers:
   qAj_2MoAAAAJ:4DMP91E08xMC:
-    citations: 6
+    citations: 7
     title: Multimodal Item Scoring for Natural Language Recommendation via Gaussian Process Regression with LLM Relevance Judgments
     year: '2025'
   qAj_2MoAAAAJ:5nxA0vEk-isC:
-    citations: 3
-    title: Self-supervised Contrastive BERT Fine-tuning for Fusion-Based Reviewed-Item Retrieval
+    citations: 2
+    title: Self-supervised contrastive BERT fine-tuning for fusion-based reviewed-item retrieval
     year: '2023'
   qAj_2MoAAAAJ:7PzlFSSx8tAC:
-    citations: 2
+    citations: 3
     title: Goal-Oriented Reasoning for RAG-based Memory in Conversational Agentic LLM Systems
     year: '2026'
   qAj_2MoAAAAJ:9ZlFYXVOiuMC:
-    citations: 4
+    citations: 5
     title: 'Semantic XPath: Structured Agentic Memory Access for Conversational AI'
     year: '2026'
   qAj_2MoAAAAJ:9yKSN-GCB0IC:
     citations: 6
     title: Study of-electromechanical coupling in a motor-driven centrifugal pump for fault detection and diagnosis
     year: '2019'
+  qAj_2MoAAAAJ:IWHjjKOFINEC:
+    citations: 2
+    title: 'A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice. 2407.13699'
+    year: '2024'
   qAj_2MoAAAAJ:IjCSPb-OGe4C:
     citations: 16
     title: 'LogicRec: Recommendation with Users'' Logical Requirements'
     year: '2023'
   qAj_2MoAAAAJ:KlAtU1dfN6UC:
-    citations: 12
+    citations: 13
     title: Self-supervised contrastive BERT fine-tuning for fusion-based reviewed-item retrieval
     year: '2023'
   qAj_2MoAAAAJ:L8Ckcad2t8MC:
-    citations: 1
+    citations: 2
     title: 'Temporal Order Matters for Agentic Memory: Segment Trees for Long-Horizon Agents'
     year: '2026'
   qAj_2MoAAAAJ:ULOm3_A8WrAC:
@@ -42,7 +46,7 @@ papers:
     title: Fault detection of reciprocating air compressors based on electrical signature analysis using long short-term memory networks
     year: '2020'
   qAj_2MoAAAAJ:UebtZRa9Y70C:
-    citations: 25
+    citations: 27
     title: Verifiable, Debuggable, and Repairable Commonsense Logical Reasoning via LLM-based Theory Resolution
     year: '2024'
   qAj_2MoAAAAJ:W7OEmFMy1HYC:
@@ -50,7 +54,7 @@ papers:
     title: "\u0627\u06CC\u062F\u0647\u200C\u0647\u0627 \u0648 \u06A9\u0627\u0631\u0628\u0631\u062F\u0647\u0627\u06CC \u0646\u0648\u06CC\u0646 \u0627\u0646\u0631\u0698\u06CC\u200C\u0647\u0627\u06CC \u062A\u062C\u062F\u06CC\u062F\u067E\u0630\u06CC\u0631\u200E"
     year: '2018'
   qAj_2MoAAAAJ:WF5omc3nYNoC:
-    citations: 34
+    citations: 35
     title: 'Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering'
     year: '2024'
   qAj_2MoAAAAJ:Wp0gIr-vW9MC:
@@ -66,11 +70,11 @@ papers:
     title: 'A comprehensive review of recommender systems: transitioning from theory to practice. 2024'
     year: Unknown Year
   qAj_2MoAAAAJ:Zph67rFs4hoC:
-    citations: 5
+    citations: 4
     title: LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases
     year: '2025'
   qAj_2MoAAAAJ:_FxGoFyzp5QC:
-    citations: 42
+    citations: 40
     title: Bayesian optimization with llm-based acquisition functions for natural language preference elicitation
     year: '2024'
   qAj_2MoAAAAJ:dhFuZR0502QC:
@@ -89,12 +93,8 @@ papers:
     citations: 10
     title: Bayesian Knowledge-driven Critiquing with Indirect Evidence
     year: '2023'
-  qAj_2MoAAAAJ:qxL8FJ1GzNcC:
-    citations: 12
-    title: 'A comprehensive review of recommender systems: Transitioning from theory to practice. arXiv'
-    year: '2024'
   qAj_2MoAAAAJ:roLk4NBRz8UC:
-    citations: 142
+    citations: 153
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice'
     year: '2026'
   qAj_2MoAAAAJ:ufrVoPGSRksC:
@@ -102,6 +102,6 @@ papers:
     title: 'CR-LT-KGQA: A Knowledge Graph Question Answering Dataset Requiring Commonsense Reasoning and Long-Tail Knowledge'
     year: '2024'
   qAj_2MoAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 3
     title: Smart fault detection of reciprocating air compressors based on electrical signature analysis
     year: '2020'
