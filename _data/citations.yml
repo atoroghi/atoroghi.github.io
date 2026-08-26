@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-26'
 papers:
   qAj_2MoAAAAJ:4DMP91E08xMC:
-    citations: 7
+    citations: 8
     title: Multimodal Item Scoring for Natural Language Recommendation via Gaussian Process Regression with LLM Relevance Judgments
     year: '2025'
   qAj_2MoAAAAJ:5nxA0vEk-isC:
@@ -10,11 +10,11 @@ papers:
     title: Self-supervised contrastive BERT fine-tuning for fusion-based reviewed-item retrieval
     year: '2023'
   qAj_2MoAAAAJ:7PzlFSSx8tAC:
-    citations: 3
+    citations: 4
     title: Goal-Oriented Reasoning for RAG-based Memory in Conversational Agentic LLM Systems
     year: '2026'
   qAj_2MoAAAAJ:9ZlFYXVOiuMC:
-    citations: 5
+    citations: 6
     title: 'Semantic XPath: Structured Agentic Memory Access for Conversational AI'
     year: '2026'
   qAj_2MoAAAAJ:9yKSN-GCB0IC:
@@ -34,7 +34,7 @@ papers:
     title: Self-supervised contrastive BERT fine-tuning for fusion-based reviewed-item retrieval
     year: '2023'
   qAj_2MoAAAAJ:L8Ckcad2t8MC:
-    citations: 2
+    citations: 3
     title: 'Temporal Order Matters for Agentic Memory: Segment Trees for Long-Horizon Agents'
     year: '2026'
   qAj_2MoAAAAJ:ULOm3_A8WrAC:
@@ -54,7 +54,7 @@ papers:
     title: "\u0627\u06CC\u062F\u0647\u200C\u0647\u0627 \u0648 \u06A9\u0627\u0631\u0628\u0631\u062F\u0647\u0627\u06CC \u0646\u0648\u06CC\u0646 \u0627\u0646\u0631\u0698\u06CC\u200C\u0647\u0627\u06CC \u062A\u062C\u062F\u06CC\u062F\u067E\u0630\u06CC\u0631\u200E"
     year: '2018'
   qAj_2MoAAAAJ:WF5omc3nYNoC:
-    citations: 35
+    citations: 36
     title: 'Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering'
     year: '2024'
   qAj_2MoAAAAJ:Wp0gIr-vW9MC:
@@ -74,7 +74,7 @@ papers:
     title: LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases
     year: '2025'
   qAj_2MoAAAAJ:_FxGoFyzp5QC:
-    citations: 40
+    citations: 43
     title: Bayesian optimization with llm-based acquisition functions for natural language preference elicitation
     year: '2024'
   qAj_2MoAAAAJ:dhFuZR0502QC:
@@ -82,23 +82,27 @@ papers:
     title: 'CommonWhy: A Dataset for Evaluating Entity-Based Causal Commonsense Reasoning in Large Language Models'
     year: '2026'
   qAj_2MoAAAAJ:kNdYIx-mwKoC:
-    citations: 9
+    citations: 10
     title: Bayesian inference with complex knowledge graph evidence
     year: '2024'
   qAj_2MoAAAAJ:mVmsd5A6BfQC:
     citations: 0
     title: Artificial intelligence device for verifiable, debuggable, and repairable commonsense logic reasoning via llm-based theory resolution and method thereof
     year: '2026'
+  qAj_2MoAAAAJ:qUcmZB5y_30C:
+    citations: 0
+    title: Complex Multi-step Inference over Knowledge Graphs Leveraging Large Language Models, Probabilistic, and Logical Reasoning
+    year: '2024'
   qAj_2MoAAAAJ:qjMakFHDy7sC:
-    citations: 10
+    citations: 11
     title: Bayesian Knowledge-driven Critiquing with Indirect Evidence
     year: '2023'
   qAj_2MoAAAAJ:roLk4NBRz8UC:
-    citations: 153
+    citations: 164
     title: 'A comprehensive review of recommender systems: Transitioning from theory to practice'
     year: '2026'
   qAj_2MoAAAAJ:ufrVoPGSRksC:
-    citations: 16
+    citations: 17
     title: 'CR-LT-KGQA: A Knowledge Graph Question Answering Dataset Requiring Commonsense Reasoning and Long-Tail Knowledge'
     year: '2024'
   qAj_2MoAAAAJ:zYLM7Y9cAGgC:
